@@ -41,12 +41,10 @@ speedtest -s [server-id]  # Specify a server from the server list using its id
 | 60584 | ShenZhen-5G |
 | 60794 | GuangZhou-5G |
 | 54312 | China Mobile Zhejiang 5G |
-| 17145 | China Telecom AnHui 5G |
 | 26352 | China Telecom JiangSu 5G |
 | 5396 | China Telecom JiangSu 5G |
 | 36663 | China Telecom JiangSu 5G |
 | 24447 | China Unicom 5G |
-| 27154 | ChinaUnicom-5G |
 
 指定节点示例：
 ```
