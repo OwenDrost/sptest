@@ -28,15 +28,12 @@ bash sptest.sh -u
 ```
 speedtest -s [server-id]  # Specify a server from the server list using its id
 ```
-这里我提供几个国内的 5G 测速节点id：
+这里我提供几个国内的 5G 测速节点id（每隔一段时间更新）：
 | 节点id | 赞助商 |
 |---------|---------|
-| 60584 | ShenZhen-5G |
-| 60794 | GuangZhou-5G |
-| 54312 | China Mobile Zhejiang 5G |
+| 24447 | China Unicom 5G |
 | 5396 | China Telecom JiangSu 5G |
 | 36663 | China Telecom JiangSu 5G |
-| 24447 | China Unicom 5G |
 
 指定节点示例：
 ```
